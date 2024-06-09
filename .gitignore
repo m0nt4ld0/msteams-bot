@@ -1,10 +1,15 @@
 *.dll
 *.pdb
+*.cmd
 obj/**
 bin/**
 runtimes/**
 *.user
 *.PublishSettings
+provinciaseguros-Web-Deploy.pubxml
 publish.cmd
+appsettings.json
 packages/
 .vs/
+wwwroot/
+.deployment

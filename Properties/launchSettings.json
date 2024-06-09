@@ -1,0 +1,20 @@
+{
+  "iisSettings": {
+    "windowsAuthentication": false,
+    "anonymousAuthentication": true,
+    "iisExpress": {
+      "applicationUrl": "http://APPLICATIONSVR:PORT",
+      "sslPort": 0
+    }
+  },
+  "profiles": {
+    "EchoBot": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "applicationUrl": "http://APPLICATIONSVR:PORT",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
